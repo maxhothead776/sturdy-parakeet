@@ -1,0 +1,23 @@
+{
+  "name": "nectar",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000t\u0000u\u0000r\u0000d\u0000y\u0000-\u0000p\u0000a\u0000r\u0000a\u0000k\u0000e\u0000e\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxhothead776/sturdy-parakeet.git"
+  },
+  "author": "mayank attri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxhothead776/sturdy-parakeet/issues"
+  },
+  "homepage": "https://github.com/maxhothead776/sturdy-parakeet#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.3"
+  }
+}
